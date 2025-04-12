@@ -51,7 +51,8 @@ body {
 .header.sticky {
     background: var(--bg-color);
     box-shadow: 0 .1rem 1rem var(--shadow-color);
-      position: fixed;
+    position: fixed;
+  
 }
 
 .logo {
